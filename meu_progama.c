@@ -1,6 +1,7 @@
 #iclude
 <stdio.h>
+
 int main() {
-printf("olá mundo\n");
-return 0;
+  printf("olá,mundo\n");
+  return 0;
 }
